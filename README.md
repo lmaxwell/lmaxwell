@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on audio self-supervised learning
+- I produce music with ableton live and programming languages like ChucK
+-  📫 How to reach me:  https://lmaxwell.github.io
 <!--
 **lmaxwell/lmaxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
